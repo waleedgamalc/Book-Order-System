@@ -1,4 +1,4 @@
-application for ordering books. The system consists of two main subsystems: administration system and user system.
+Application for ordering books. The system consists of two main subsystems: administration system and user system.
 ⮚ The administration system provides: items administration, orders management, log of purchased books and support for statistics. The user system is a web application system
 that permits the creation of book orders. Every time a book is ordered, the order appears
 in the administration system so that the administrator confirms the order.
